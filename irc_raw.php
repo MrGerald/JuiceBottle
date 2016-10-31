@@ -1,6 +1,6 @@
 <? // This is a very primitive IRC bot
 if (!isset($argv)) {
-	die('CLI Only.');
+	die('CLI Onll.');
 }
 
 define('SERVER', BOT_SERVER);
